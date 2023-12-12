@@ -1,0 +1,99 @@
+
+.header{
+    background:rgba(122, 248, 189, 0.74);
+    height: 50px;
+
+}
+
+.form-group{
+  align-items: center;
+  background-color:burlywood;
+  border-radius: 5px;
+  width: 400px;
+ /* margin: 20px auto; */
+  padding: 7px;
+  /* height: 600px; */
+}
+.buttons{
+  text-align: center;
+  height: 15px;
+ 
+}
+.row{
+    background-color: white;
+    color:red;
+}
+.card{
+    background-color: pink;
+   
+}
+.list-group-item{
+    background-color:red;
+}
+.addemp{
+margin-left: 30%;
+}
+.buttons
+{
+ max-height:56%;
+}
+/* .row
+{
+  background-color:darksalmon;
+  margin-left: 5%;
+  margin-right: 10%;
+  margin-top: 5%;
+} */
+h2{
+  color:bl
+}
+h3{
+    color:rgb(2, 143, 77);;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#register, #login {
+  width: 500px;
+  border: 5px ridge rgb(0, 0, 0) ;
+  padding: 20px 20px 20px 20px;
+  border-radius: 5px;
+  font-family: arial;
+  line-height: 16px;
+  color: #0f0f0e;
+  font-size: 14px;
+  background:rgba(122, 248, 189, 0.74);
+  margin: 100px auto;
+  margin-top: 5px;
+}
+
+form label, form input {
+  display: block;
+  /* margin-bottom: 10px; */
+  width: 90%
+}
+
+form input {
+  padding: 10px;
+  border: solid 1px #BDC7D8;
+
+}
+
+
+.errorMsg {
+  color: #cc0000;
+  margin-bottom: 12px;
+}
+.Loginforms
+{
+  width: 500px;
+  border: 5px ridge rgb(0, 0, 0) ;
+  padding: 20px 20px 20px 20px;
+  border-radius: 5px;
+  font-family: arial;
+  line-height: 16px;
+  color: #0f0f0e;
+  font-size: 14px;
+  background:rgba(122, 248, 189, 0.74);
+  margin: 100px auto;
+  margin-top: 50px;
+}
